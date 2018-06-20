@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+td {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid grey;
+}
